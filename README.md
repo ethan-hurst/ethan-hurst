@@ -54,13 +54,43 @@ On the development side, I build with **SvelteKit**, **React**, **Python**, **C#
 
 ---
 
-### Tech & Tools
+### Languages & Tools
 
-**Enterprise** · Dynamics 365 (Sales, Marketing, Field Service, CE) · Power Platform (Power Apps, Power Automate, Power Pages) · Azure · M365 · Dataverse · Active Directory
+**Enterprise Platform**
 
-**Development** · JavaScript · TypeScript · React · SvelteKit · Python · C# · .NET · Q#
+<p>
+  <a href="https://dynamics.microsoft.com/"><img src="https://img.shields.io/badge/Dynamics_365-002050?style=for-the-badge&logo=dynamics365&logoColor=white" alt="Dynamics 365"/></a>
+  <a href="https://powerplatform.microsoft.com/"><img src="https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Platform"/></a>
+  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/></a>
+  <a href="https://www.microsoft.com/microsoft-365"><img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="M365"/></a>
+</p>
 
-**Other** · Solution Architecture · ALM & DevOps · Technical Training · Change Management
+**Development**
+
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/></a>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
+  <a href="https://kit.svelte.dev/"><img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit"/></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/></a>
+</p>
+
+---
+
+### GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ethan-hurst&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethan-hurst&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ethan-hurst&hide_border=true&theme=default" alt="GitHub Streak"/>
+
+<img src="https://ghchart.rshah.org/ethan-hurst" alt="GitHub Contribution Graph" width="100%"/>
+
+<sub>🕐 Contributing on GitHub since 2015 — 10+ years and counting.</sub>
 
 ---
 
