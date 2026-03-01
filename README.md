@@ -1,7 +1,5 @@
 # Hey, I'm Ethan 👋
 
-**Senior Consultant** at [Business Aspect](https://www.businessaspect.com.au/) (Data#3) · Brisbane, Australia
-
 I'm a Microsoft ecosystem specialist who bridges the gap between enterprise architecture and hands-on development. I spent 3+ years at Microsoft as a Cloud Solution Architect and Customer Engineer focused on Dynamics 365 and Power Platform — and before that, I was building solutions across consulting firms from Auckland to Brisbane.
 
 ---
