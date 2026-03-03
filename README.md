@@ -83,9 +83,9 @@ On the development side, I build with **SvelteKit**, **React**, **Python**, **C#
 
 ### GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ethan-hurst&hide_border=true&theme=default" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xLeathery&hide_border=true&theme=default" alt="GitHub Streak"/>
 
-<img src="https://ghchart.rshah.org/ethan-hurst" alt="GitHub Contribution Graph" width="100%"/>
+<img src="https://ghchart.rshah.org/0xLeathery" alt="GitHub Contribution Graph" width="100%"/>
 
 <sub>🕐 Contributing on GitHub since 2015 — 10+ years and counting.</sub>
 
